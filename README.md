@@ -24,7 +24,7 @@ Users should be able to:
 
 ![desktop design](./images/social-proof-section-desktop.png)
 
-![mobile design1](./images/social-proof-section-mobile1.png-mobile.png) ![mobile design2](./images/social-proof-section-mobile2.png)
+![mobile design1](./images/social-proof-section-mobile1.png) ![mobile design2](./images/social-proof-section-mobile2.png)
 
 
 ### Links
