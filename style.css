@@ -156,6 +156,13 @@ html body {
     grid-template-columns: repeat(3, auto);
     gap: 2em;
   }
+  
+  .rating__box--translate6,
+  .rating__box--translate3,
+  .review__card--translate2em,
+  .review__card--translate1em {
+    transition: transform 300ms ease-in;
+  }
 
   .review__card--translate1em {
     transform: translateY(1em);
