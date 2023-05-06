@@ -70,6 +70,7 @@ html body {
 
 .reviews {
   display: grid;
+  gap: 1em;
 }
 
 .review__card {
@@ -154,6 +155,14 @@ html body {
   .reviews {
     grid-template-columns: repeat(3, auto);
     gap: 2em;
+  }
+
+  .review__card--translate1em {
+    transform: translateY(1em);
+  }
+
+  .review__card--translate2em {
+    transform: translateY(2em);
   }
 }
 
